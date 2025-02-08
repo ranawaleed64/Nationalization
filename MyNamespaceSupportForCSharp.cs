@@ -21,7 +21,7 @@ namespace Nationalization.My
             [DebuggerStepThrough]
             get
             {
-                //What changes wants to make
+                //What changes wants to make not occur
                 if (application == null)
                     application = new MyApplication();
                 return application;
